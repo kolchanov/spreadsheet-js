@@ -1,0 +1,20 @@
+{
+  "name": "spreadsheet-js",
+  "description": "spreadsheet-js",
+  "main": "index.html",
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "slickgrid": "*",
+    "highcharts": "*",
+    "excel-formula-parser":"git://github.com/netbrain/excel-formula-parser.git"
+  }
+}
